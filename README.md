@@ -1,3 +1,8 @@
+[![MasterHead](banner.png)](https://github.com/JoJaCo)
+
+
+
+
 - 👋 Hi, I’m @JoJaCo
 - 👀 I’m interested in movies, games and lifting
 - 🌱 I’m currently learning kotlin and android dev
